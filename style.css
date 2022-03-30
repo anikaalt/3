@@ -1,0 +1,34 @@
+body
+{
+    text-align:center;
+}
+
+.center_div
+{
+    background-color: rgb(183, 122, 233);
+    color: rgb(221, 169, 228);
+}
+#h3
+{
+    font-size: small;
+    color: rgb(147, 42, 165);
+}
+h2
+{
+    color:rgb(161, 42, 165);
+
+}
+.copy_right_footer
+{
+    font-size: large;
+    position: fixed;
+    bottom:0;
+    width:100%;
+    line-height: 3;
+    text-align: center;
+    
+}
+.header_div
+{
+    background-color: rgb(206, 177, 230);
+} 
